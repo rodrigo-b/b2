@@ -1,0 +1,1 @@
+INSERT INTO PLANET VALUES (1,"Alderaan","grasslands, mountains","temperate",2);
